@@ -1,11 +1,16 @@
-import {Stack} from '@mui/material';
-import { InfinitySpin } from 'react-loader-spinner';
+import { Stack, CircularProgress } from "@mui/material";
+
 const Loader = () => {
   return (
-    <Stack direction="row" width="100%" justifyContent="center" alignItems="center">
-        <InfinitySpin color="gray"/>
+    <Stack
+      direction="row"
+      width="100%"
+      justifyContent="center"
+      alignItems="center"
+    >
+      <CircularProgress color="inherit" />
     </Stack>
-  )
-}
+  );
+};
 
 export default Loader;
