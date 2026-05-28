@@ -1,7 +1,7 @@
 Modern React 18 Fitness Exercises App With APIs | RapidAPI
 Gold's Gym - The Ultimate Fitness App
 
-Live Demo: https://fitness-exercises-app-with-ap-is-sjhn.vercel.app/
+Live Demo: fitness-exercises-app-with-ap-is-rg52.vercel.app
 
 Gold's Gym is a modern fitness exercises app built with React 18, offering a sleek and responsive UI powered by Material UI (v5) and comprehensive data from RapidAPI. This application is perfect for fitness enthusiasts who want to explore a vast range of exercises, target specific muscle groups, and dive into practical examples—all in one place.
 
